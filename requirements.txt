@@ -1,0 +1,6 @@
+flask>=3.0
+waitress>=3.0
+pystray>=0.19
+pillow>=10.0
+pywin32>=306
+pyinstaller>=6.10
